@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Brawler&display=swap');
+
+html,
+body {
+    margin: 0 !important;
+    font-family: Brawler;
+}
+
+section {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 1px 1px 10px rgb(53, 56, 100);
+    font-size: 3em;
+    font-weight: 400;
+}
